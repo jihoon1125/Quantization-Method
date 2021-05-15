@@ -1,4 +1,4 @@
-# Various_quantization
+# Quantization Method
 * 다양한 양자화 기법을 통해 이미지 압축 및 복원을 해보며 각 기법의 장단점을 분석한다.
 * PSNR(10 * log(1024^2 / MSE)) 값을 기준으로 복원률 계산
 * Uniquantization, Lloyd-Max quantization, Vector quantization 기법들을 사용한다. 
